@@ -1,0 +1,9 @@
+Package: com.r.noreact
+Name: noReactions
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: ryans
+Author: ryans
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
