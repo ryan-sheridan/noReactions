@@ -5,7 +5,7 @@ include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = noReactions
 
-noReactions_FILES = Tweak.x
+noReactions_FILES = Tweak.xm
 noReactions_CFLAGS = -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
